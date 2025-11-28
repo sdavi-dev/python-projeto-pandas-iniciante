@@ -1,0 +1,7 @@
+﻿ID,Nome,Idade,Cidade,Salario,Data_Admissao,Departamento,Horas_Trabalhadas
+1,Ana,23,São Paulo,3500.50,2022-01-10,Financeiro,160
+2,Bruno, 30 ,Rio de Janeiro,4000,10/03/2021,TI,170
+3,Carlos,,   Belo Horizonte,NaN,2020/04/15,TI,quebradas
+4,,vinte,Salvador,5200.10,,Marketing,180
+5,Eva ,27,,"5000,00",2023-12-01,Financeiro,
+6,   Felipe,40,RECIFE,,15-08-2020,marketing,150
